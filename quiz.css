@@ -1,0 +1,9 @@
+body{
+  background: lightgray;
+}
+
+article {
+  width: 30%;
+  display: inline-block;
+
+}
